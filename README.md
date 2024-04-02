@@ -1,5 +1,5 @@
 [![MasterHead](https://www.american.edu/spa/data-science/images/datascience-hero.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Fernando Matias Gonzalez</h1>
+<h1 align="center">Hi, I'm Fernando Matias Gonzalez</h1>
 <h3 align="center">A passionate industry analyst & data scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif“>
 
@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **fmg.clevers@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
