@@ -3,8 +3,6 @@
 <h3 align="center">Industry Analyst: Data Science & Anlytics</h3>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif“>
 
-- 💬 Ask me about **Data Science and Analytics: Industry and Scientific Projects**
-
 - 📫 How to reach me **fmg.clevers@gmail.com**
 
 <p align="left">
