@@ -1,8 +1,6 @@
 [![MasterHead](https://www.american.edu/spa/data-science/images/datascience-hero.jpg)](https://rishavchanda.io)
 <h1 align="center">Fernando Matias Gonzalez</h1>
 <h3 align="center">Industry Analyst: Data Science & Analytics</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 
 Welcome to my GitHub profile! I'm passionate about leveraging data science and analytics to drive insights and innovation in various industries.
 
