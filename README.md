@@ -2,7 +2,8 @@
 <h1 align="center">Fernando Matias Gonzalez</h1>
 <h3 align="center">Industry Analyst: Data Science & Analytics</h3>
 
-Hey there! I'm Fernando
+Hey there!👋 I'm Fernando.
+</p>
 I'm passionate about leveraging data science to drive insights and innovation in various industries.
 
 - 💬 Feel free to ask me about **Data Science, Analytics, AI, Machine Learning, Industry Projects, and more!**
