@@ -2,7 +2,7 @@
 <h2 align="center">Fernando Matias Gonzalez</h1>
 <h3 align="center">Industry Analyst: Data Science & Analytics</h3>
 
-Hi there! 👋 I'm Fernando
+Hi there! 👋 I'm Matías
 </p>
 
 I'm passionate about leveraging data science to drive insights and innovation in various industries as well as scientific projects.
