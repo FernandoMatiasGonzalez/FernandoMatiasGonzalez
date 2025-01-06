@@ -2,10 +2,7 @@
 <h2 align="center">Fernando Matias Gonzalez</h1>
 <h3 align="center">Industry Analyst: Data Science & Analytics</h3>
 
-Hi there! I'm Matías
-</p>
-
-I'm an industry technology analyst with over 15 years of experience, bringing a strong foundation in data science and AI honed at Bocconi and MIT. My expertise includes ensemble methods, neural networks, and other machine learning techniques, applying Python frameworks for large-scale data analysis. I have experience developing projects across industries, translating complex data into valuable business insights.
+Hi there! I'm an industry technology analyst with over 15 years of experience, bringing a strong foundation in data science and AI honed at Bocconi and MIT. My expertise includes ensemble methods, neural networks, and other machine learning techniques, applying Python frameworks for large-scale data analysis. I have experience developing projects across industries, translating complex data into valuable business insights.
 
 I'm passionate about leveraging data science and AI to drive innovation in both industry and scientific projects.
 
