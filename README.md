@@ -2,10 +2,10 @@
 <h2 align="center">Fernando Matias Gonzalez</h1>
 <h3 align="center">Industry Analyst: Data Science & Analytics</h3>
 
-Hi there! 👋 I'm Matías
+Hi there! I'm Matías
 </p>
 
-I'm passionate about leveraging data science to drive insights and innovation in various industries as well as scientific projects.
+I'm an industry technology analyst with over 15 years of experience, bringing a strong foundation in data science and AI honed at Bocconi and MIT. My expertise includes ensemble methods, neural networks, and other machine learning techniques, applying Python frameworks for large-scale data analysis. I have a proven track record of developing impactful projects across industries, translating complex data into valuable business insights. I'm passionate about leveraging data science to drive insights and innovation in various industries as well as scientific projects.
 
 - 💬 Feel free to ask me about **Data Science, Analytics, AI, Machine Learning, Industry Projects, and more!**
   
