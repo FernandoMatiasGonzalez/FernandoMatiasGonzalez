@@ -4,9 +4,7 @@
 
 Hi there! I'm Matías
 
-I'm industry technology analyst with over 15 years of experience, bringing a strong foundation in data science and AI honed at Bocconi and MIT. My expertise includes ensemble methods, neural networks, and other machine learning techniques, applying Python frameworks for large-scale data analysis. I have experience developing projects across industries, translating complex data into valuable business insights.
-
-I'm passionate about leveraging data science and AI to drive innovation in both industry and scientific projects.
+With over 15 years of experience as an industry analyst, I specialize in data science and AI, with a focus on supervised and unsupervised machine learning models. My background includes training at Bocconi and MIT, and I use Python-based tools for large-scale data analysis and AI model deployment. I’ve had the opportunity to work on various projects across industries, helping translate complex data into actionable insights
 
 - 💬 Feel free to ask me about **Data Science, Analytics, AI, Machine Learning, Industry Projects, and more!**
   
