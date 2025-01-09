@@ -4,7 +4,7 @@
 
 Hi there! I'm Matías
 
-With over 15 years of experience as an industry analyst, I specialize in data science and AI, with a focus on supervised and unsupervised machine learning models. My background includes training at Bocconi and MIT, and I use Python-based tools for large-scale data analysis and AI model deployment. I’ve had the opportunity to work on various projects across industries, helping translate complex data into actionable insights
+With over 15 years of experience as an industry analyst, I specialize in data science and AI, with a focus on supervised and unsupervised machine learning models. My training at SDA Bocconi and MIT has equipped me with a solid foundation in data analysis techniques. I apply Python-based frameworks to manage large-scale data analysis and AI model deployment, and have had the privilege of contributing to projects across various industries, transforming complex data into actionable insights.
 
 - 💬 Feel free to ask me about **Data Science, Analytics, AI, Machine Learning, Industry Projects, and more!**
   
