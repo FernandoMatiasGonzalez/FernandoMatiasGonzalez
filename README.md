@@ -2,9 +2,9 @@
 <h2 align="center">Fernando Matias Gonzalez</h1>
 <h3 align="center">Industry Analyst: Data Science & Analytics</h3>
 
-Hi there! I'm Matías
+Hi there! I'm Fernando
 
-With over 15 years of experience as an industry analyst, I specialize in data science and AI, focusing on advanced machine learning techniques, including predictive modeling, clustering, and pattern recognition. My training at SDA Bocconi and MIT has equipped me with a solid foundation in data analysis methodologies. I apply Python-based frameworks to manage large-scale data analysis and AI model deployment, and have had the privilege of contributing to projects across various industries, transforming complex data into actionable insights.
+With 15+ years as an industry analyst, I specialize in AI development and architecture, leveraging multi-agent models and advanced machine learning techniques. My expertise spans predictive modeling, clustering, and pattern recognition, applying Python-based frameworks for scalable AI deployment. I have worked on data-driven transformations across industries, enhancing decision-making processes.
 
 - 💬 Feel free to ask me about **Data Science, Analytics, AI, Machine Learning, Industry Projects, and more!**
   
