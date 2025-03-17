@@ -8,7 +8,7 @@ With 15+ years as an industry analyst, I specialize in AI development and archit
 
 - 🚀 Check out my latest rule-based agent matchmaking system [**here**](https://greenpowerplus.replit.app/)
 
-- 💬 Feel free to ask me about **Data Science, Analytics, AI, Machine Learning, Industry Projects, and more!**
+- 💬 Feel free to ask me about **Data Science, Analytics, AI, Machine Learning, and Industry Projects**
   
 - 📫 You can reach me via email at **fmg.clevers@gmail.com**. Let's connect!
 
