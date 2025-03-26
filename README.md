@@ -6,6 +6,8 @@ Hi there! I'm Fernando
 
 With 15+ years as an industry analyst, I specialize in AI development and architecture, leveraging multi-agent models and advanced machine learning techniques. My expertise spans predictive modeling, clustering, and pattern recognition, applying Python-based frameworks for scalable AI deployment. I've worked on data-driven transformations across industries, enhancing decision-making processes.
   
+- 🚀 Check out the **GP+ prototype** repo - an AI-driven energy matchmaking system: [**Preview→**](https://greenpowerplus.replit.app/)
+
 - 💬 Feel free to ask me about **Data Science, AI, Machine Learning, Industry Projects and more!**
   
 - 📫 You can reach me via email at **fmg.clevers@gmail.com**. Let's connect!
