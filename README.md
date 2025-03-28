@@ -8,9 +8,9 @@ With 15+ years as an industry analyst, I specialize in AI development and archit
   
 - 🚀 Check out the **GP+ prototype repo** - an AI-driven energy matchmaking system: [**Preview →**](https://greenpowerplus.replit.app/)
 
-- 💬 Feel free to ask me about **Data Science, AI, Machine Learning, Industry Projects, and more!**
+- 💬 Feel free to ask me about **Data Science, AI, Machine Learning, and Industry Projects.**
   
-- 📫 You can reach me via email at **fmg.clevers@gmail.com** – happy to connect!
+- 📫 You can reach me via email at **fmg.clevers@gmail.com** – let's connect!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
