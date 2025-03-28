@@ -10,7 +10,7 @@ With 15+ years as an industry analyst, I specialize in AI development and archit
 
 - 💬 Feel free to ask me about **Data Science, AI, Machine Learning, Industry Projects, and more!**
   
-- 📫 You can reach me via email at **fmg.clevers@gmail.com** – let's connect!
+- 📫 You can reach me via email at **fmg.clevers@gmail.com** – glad to connect!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
