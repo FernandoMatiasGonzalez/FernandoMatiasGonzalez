@@ -1,6 +1,6 @@
 [![MasterHead](https://www.american.edu/spa/data-science/images/datascience-hero.jpg)](https://rishavchanda.io)
 <h2 align="center">Fernando Matias Gonzalez</h1>
-<h3 align="center">Industry Analyst & AI Specialist | Multi-Agent Systems & Predictive Analytics</h3>
+<h3 align="center">Industry Analyst and AI Specialist | Multi-Agent Systems & Predictive Analytics</h3>
 
 Hi there! I'm Fernando
 
