@@ -7,8 +7,6 @@ Hi there 👋
 
 I build AI systems across agents, retrieval, search, and data infrastructure.
 
-My background in industry analysis and the humanities helps shape how I approach complex information, structure problems, and build systems.
-
 * 📫 Reach me at **[fmg.clevers@gmail.com](mailto:fmg.clevers@gmail.com)**
 
 <h3 align="left">Tools</h3>
