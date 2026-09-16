@@ -5,7 +5,7 @@
 
 I build AI systems across agents, retrieval, search, and data infrastructure.
 
-- 📫 You can reach me via email at **fmg.clevers@gmail.com**
+- 📫 **fmg.clevers@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
