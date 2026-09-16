@@ -2,7 +2,7 @@
 <h2 align="center">Fernando Matias Gonzalez</h1>
 <h3 align="center">Industry Analyst and AI Specialist | Multi-Agent Systems & Predictive Analytics</h3>
 
-I specialize in AI development and architecture, leveraging multi-agent models and machine learning techniques. My expertise spans predictive modeling, clustering, and pattern recognition, applying Python-based frameworks for scalable AI deployment. I've worked on data-driven transformations across industries, enhancing decision-making processes.
+I specialize in AI development and architecture, leveraging multi-agent models and machine learning techniques. My expertise spans predictive modeling, clustering, and pattern recognition, applying Python-based frameworks for scalable AI deployment.
   
 - 💬 Feel free to ask me about **AI Engineering, Machine Learning, Industry Projects, and more**
   
